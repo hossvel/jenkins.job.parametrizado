@@ -7,5 +7,5 @@ else
 	echo "Disfruta el planeta humano/a $nombre, trata de no morir."
 fi
 echo "..."
-sleep 10
-echo "¡Suerte! La necesitarás."
+sleep 5
+echo "¡Suerte! La necesitarás******."
